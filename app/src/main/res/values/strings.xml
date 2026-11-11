@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rádió</string>
+    <string name="settings">Beállítások</string>
+    <string name="stations">Állomások</string>
+    <string name="saved_stations">Mentett állomások (koppints rá a műveletekhez)</string>
+    <string name="play">Lejátszás</string>
+    <string name="pause">Leállítás</string>
+    <string name="exit">Kikapcsolás</string>
+    <string name="no_station">Nincs állomás</string>
+    <string name="status_connecting_service">Indítás…</string>
+    <string name="status_buffering">Kapcsolódás…</string>
+    <string name="status_playing">Szól ♪</string>
+    <string name="status_stopped">Leállítva</string>
+    <string name="status_error">Hiba: %1$s</string>
+    <string name="empty_main">Még nincs állomás. Koppints a fogaskerékre egy link hozzáadásához.</string>
+    <string name="empty_settings">Még nincs mentett állomás.</string>
+    <string name="hint_name">Állomás neve</string>
+    <string name="hint_url">Internetrádió linkje</string>
+    <string name="helper_url">pl. https://icast.connectmedia.hu/5201/live.mp3</string>
+    <string name="add_station">Hozzáadás</string>
+    <string name="save_changes">Módosítás mentése</string>
+    <string name="cancel">Mégse</string>
+    <string name="option_play">Lejátszás</string>
+    <string name="option_edit">Szerkesztés</string>
+    <string name="option_delete">Törlés</string>
+    <string name="delete_title">Állomás törlése</string>
+    <string name="delete_message">Biztosan törlöd: %1$s?</string>
+    <string name="error_url_empty">Add meg a linket</string>
+    <string name="error_url_invalid">Érvénytelen link</string>
+    <string name="error_url_exists">Ez a link már szerepel a listában</string>
+    <string name="station_added">Állomás mentve</string>
+    <string name="station_updated">Állomás módosítva</string>
+</resources>

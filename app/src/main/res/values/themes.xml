@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="radio_blue">#1E3A5F</color>
+    <color name="radio_amber">#FFC107</color>
+
+    <style name="Theme.Radio" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/radio_amber</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorSecondaryContainer">#3A4A60</item>
+        <item name="colorOnSecondaryContainer">#FFFFFF</item>
+        <item name="android:statusBarColor">#121212</item>
+    </style>
+</resources>
