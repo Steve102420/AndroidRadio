@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ikon Android 8 előtti rendszerekhez (újabbakon a mipmap-anydpi-v26 változat érvényes) -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_radio_big" />
+</layer-list>

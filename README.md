@@ -18,8 +18,12 @@
 
 Úgy is telepítheted, hogy USB-n csatlakoztatod a telefont (bekapcsolt USB-hibakereséssel), és megnyomod a zöld ▶ gombot.
 
-## APK készítése GitHubbal, telepítés nélkül
-Töltsd fel a mappát egy GitHub-tárolóba. Az **Actions** fül alatt automatikusan lefut az „APK fordítás” folyamat. Amikor végzett, a `radio-apk` mellékletből letöltheted az APK-t.
+## Letöltés (GitHub)
+Minden feltöltés után automatikusan elkészül a legújabb APK, ezen a linken tölthető le:
+
+**https://github.com/Steve102420/AndroidRadio/releases/latest/download/Radio.apk**
+
+Nyisd meg a linket a telefonon, majd telepítsd a letöltött `Radio.apk` fájlt. Minimum Android 5.0 kell hozzá.
 
 ## Megjegyzés a linkekről
 Közvetlen stream linket adj meg (pl. `.mp3`, `.aac`, `.m3u8`, vagy egy Icecast/Shoutcast címet). A `.pls` és `.m3u` lejátszási listák nem stream linkek: ezeket nyisd meg egy szövegszerkesztőben, és a bennük lévő `http...` linket másold be.
